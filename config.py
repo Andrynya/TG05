@@ -1,0 +1,2 @@
+TOKEN = "7286798081:AAF9FvG2npVrHjKIxwCntdCwesfrxc0k6dA"
+RAPIDAPI_KEY = "0b0ad1df1amshcc54d61f5a85f0dp1ef1d5jsndf4692290c60"
